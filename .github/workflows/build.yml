@@ -2,7 +2,7 @@ name: Build README
 
 on:
   schedule:
-    - cron:  '37 * * * *'
+    - cron:  '39 * * * *'
 
 jobs:
   build:
